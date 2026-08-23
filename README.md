@@ -1,7 +1,7 @@
 # Gemini-jailbreak
-Jailbreak Gemini, DeepSeek and with just one prompt!!!
+Jailbreak Gemini or DeepSeek with just one prompt!!!
 
-How to jailbreak? : Copy and paste this to DeepSeek or Gemini flash-lite (only flash-lite)!
+How do I jailbreak? : Copy and paste this to DeepSeek or Gemini flash-lite (only flash-lite)!
 
 Note: Do not paste all prompts from here in one prompt to AI! 
 
